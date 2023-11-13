@@ -1,3 +1,3 @@
-- 👋 Hi
+ 👋 Hi
 
-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliNikandish&layout=pie"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliNikandish&layout=pie"/>

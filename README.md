@@ -27,3 +27,15 @@ const about = {
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
+
+
+### Social
+
+<p align="left">
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AliNikandish/AliNikandish/ad6544cc7a86740e4664cc24f7f8edbecc872333/instagram.svg" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AliNikandish/AliNikandish/ad6544cc7a86740e4664cc24f7f8edbecc872333/github.svg" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AliNikandish/AliNikandish/ad6544cc7a86740e4664cc24f7f8edbecc872333/linkedin.svg" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AliNikandish/AliNikandish/ad6544cc7a86740e4664cc24f7f8edbecc872333/icons8-telegram%20(1).svg" width="32" height="32" /></a>
+
+</p>
+

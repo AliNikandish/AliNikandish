@@ -4,7 +4,6 @@
 
 ```javascript
 const about = {
-  pronouns: "He" | "him",
   langs: [Javascript, Typescript, HTML, CSS],
   tools: [
     React,
